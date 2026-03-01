@@ -18,7 +18,7 @@ namespace PotentialOverlay.Views
         private PotentialData _data = new();
         
         // 대상 게임 창 이름
-        private const string GameTitle = "Stella Sora"; // 실제 게임 창 이름 확인 필요
+        private const string GameTitle = "StellaSora";
 
         // [비율 데이터] 1920x1080 기준
         // [Index] -> {TextX, TextY, TextW, TextH, MaskX, MaskY, MaskW, MaskH}
