@@ -32,6 +32,7 @@ namespace PotentialOverlay.Views
         public MainWindow()
         {
             InitializeComponent();
+            StatusText.Text = "ready";
             LoadJsonData();
             _overlay.Show();
 
